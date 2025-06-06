@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "lingchen"         # 用户名
 UUID = "ff9c3d42-fae2-4f6f-aae3-f1d008036278"                     # UUID，留空则自动生成
-PORT =48888                    # Vmess端口，留空或0则自动生成
+PORT =49999                    # Vmess端口，留空或0则自动生成
 DOMAIN = "go.lingchen.ggff.net"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiODYyMmRlNmEyYTk3OGJjMjNmMzAxOTZlZWVlNTk4MzgiLCJ0IjoiNmFmMzNiMDMtMzYyYS00MjQxLTkzODItNDMxY2Y1YThhNTVjIiwicyI6Ik1qWTBZalZqTmpRdE9EVTBOeTAwWTJNMkxUazVZamN0TURGbE5XVmlNVE5sWWpJdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
